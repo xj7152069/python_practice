@@ -5,7 +5,7 @@ def l(pi,r):
     l=2*pi*r
     return l
 from sys import argv
-script,r1=argv
+script,r1=5
 r=float(r1)
 pi=3.1415926
 print "the surfance area is: %.3f"%s(pi,r),"km**2"
